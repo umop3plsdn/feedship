@@ -25,6 +25,3 @@ Replace `<rss_url>` with your Youtube URL to be converted to RSS.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Author
-David Grindle
