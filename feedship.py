@@ -1,3 +1,13 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+feedship - RSS to YouTube URL converter for Newsboat
+
+Author: David Grindle
+Year: 2025
+License: MIT
+"""
+
 import requests
 import re
 import sys
