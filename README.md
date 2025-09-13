@@ -1,9 +1,9 @@
 # Feedship
 
-**Feedship** is a small Python utility that converts Newboat RSS feed URLs into YouTube URLs, making it easy to track new videos.
+**Feedship** is a small Python utility that converts YouTube URLs into Newboat RSS feed URLs, making it easy to track new videos in newsboat or other RSS apps.
 
 ## Features
-- Convert Newboat RSS feeds to YouTube URLs
+- Convert YouTube URLs to Newboat RSS feeds
 - Simple command-line usage
 - Lightweight and fast
 
