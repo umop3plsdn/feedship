@@ -21,7 +21,7 @@ Make sure you have Python 3 installed.
 ```bash
 python feedship.py <rss_url>
 ```
-Replace `<rss_url>` with your Newboat RSS feed URL.
+Replace `<rss_url>` with your Youtube URL to be converted to RSS.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
